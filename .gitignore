@@ -1,0 +1,38 @@
+# ========================================
+#  Bug Bounty Writeups — .gitignore
+# ========================================
+
+# NEVER commit:
+*-original.md
+*_original.*
+*_raw.*
+*_unsanitized.*
+
+# Real screenshots
+*.png
+*.jpg
+*.jpeg
+!docs/examples/*
+
+# Real data
+*.pdf
+*.docx
+*.xlsx
+
+# Personal
+notes/
+private/
+todo.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Backups
+*.bak
+*.old
