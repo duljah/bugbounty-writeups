@@ -38,9 +38,6 @@ The application allows a sender to include a free-text note during a transfer. T
 
 ---
 
-## 6. Proof of Authorship
-The original, unredacted report has a SHA256 hash of:
-`we/+C50kFzlt5erZyYwmanleFe4TAOk4cOzrddq2cEM`
 
----
-*Disclaimer: This report is published for educational purposes and to demonstrate security research methodologies. The affected platform's identity has been anonymized to comply with responsible disclosure practices.*
+--- *Disclaimer: This report is published for educational purposes and to demonstrate security research methodologies. The affected platform's 
+identity has been anonymized to comply with responsible disclosure practices.*
